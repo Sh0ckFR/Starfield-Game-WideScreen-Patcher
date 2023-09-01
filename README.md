@@ -5,8 +5,8 @@ Starfield WideScreen 32/9 Patcher is a tool to patch the Starfield binary to dis
 
 # How to use it
 
-- Close your game
-- Patch Starfield.exe with this tool
+- Close your game.
+- Unzip and Patch Starfield.exe with this tool.
 - Start your game, the main menu will have the black bars visible but no more visible during the game.
 
 This tool is malwares free, no viruses etc... but if you don't trust me, you can clone the project and recompile it with Visual Studio.
