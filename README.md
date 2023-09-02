@@ -20,3 +20,14 @@ Download: https://github.com/Sh0ckFR/Starfield-Game-WideScreen-Patcher/releases/
 ![Alt text](screenshot2.png?raw=true "Screenshot")
 
 https://www.virustotal.com/gui/file/ea0da67f57bc0b66d06149739ffceb4893172b28bef46c923d4da80cbf0bbd3e?nocache=1
+
+# If I have any other aspect ratio, how can I modify this tool to adapt it for my resolution?
+
+You can edit the values directly in the source code and recompile the tool with Visual Studio Community Edition:
+
+https://github.com/Sh0ckFR/Starfield-Game-WideScreen-Patcher/blob/main/MainWindow.xaml.cs#L31
+https://github.com/Sh0ckFR/Starfield-Game-WideScreen-Patcher/blob/main/MainWindow.xaml.cs#L63
+
+The different values for the different aspect ratios are available here:
+
+https://www.wsgf.org/article/common-hex-values
