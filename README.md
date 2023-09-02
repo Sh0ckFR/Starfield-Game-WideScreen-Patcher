@@ -1,5 +1,5 @@
 # Starfield-Game-WideScreen-Patcher
-Starfield WideScreen 32/9 Patcher is a tool to patch the Starfield binary to disable the black bars on a 32/9 WideScreen on the Steam version only (I will try to update it for the GamePass version later).
+Starfield WideScreen 32/9 Patcher is a tool to patch the Starfield binary to disable the black bars on a 32/9 WideScreen.
 
 ![Alt text](screenshot.png?raw=true "Screenshot")
 
